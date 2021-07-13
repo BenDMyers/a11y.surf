@@ -4,7 +4,7 @@ a11y.surf is a dictionary of important accessibility terms.
 
 ## Develop locally
 
-Clone this repo, run `cd a11y.surf`, and install the dependencies with one of the following commands depending on your package manager, :
+Clone this repo, run `cd a11y.surf`, and install the dependencies with one of the following commands depending on your package manager:
 
 ### Yarn
 
@@ -20,11 +20,11 @@ npm i
 npm run dev
 ```
 
-Open `localhost:8080`
+Open `localhost:8080` to see the running project.
 
 ## Build
 
-Bundle your project into `_site`
+Bundle your project into `_site`.
 
 ### Yarn
 
